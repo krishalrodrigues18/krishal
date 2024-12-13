@@ -1,3 +1,2 @@
 this is my server 1
-this distributed version of git 
-this is my file
+jenkins
